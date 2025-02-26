@@ -9,37 +9,37 @@ Key Insights
  
 
 Population Distribution
-v  Total US population: 331M
+*  Total US population: 331M
 
-v  California leads as the most populated state (40M)
+*  California leads as the most populated state (40M)
 
-v  Top 5 states by population show significant concentration in California, Texas, Florida, New York, and Pennsylvania
+*  Top 5 states by population show significant concentration in California, Texas, Florida, New York, and Pennsylvania
 
  
 
 2.       Educational Attainment
 
-v  Texas leads in both Bachelor's degrees (32.34%) and Associate degrees (27.21%)
+*  Texas leads in both Bachelor's degrees (32.34%) and Associate degrees (27.21%)
 
-v  There's a strong educational presence in southern states (Georgia, Virginia)
+*  There's a strong educational presence in southern states (Georgia, Virginia)
 
  
 
 3.       Voting Patterns
 
-v  California shows highest Republican votes (6.0M) despite being traditionally Democratic
+*  California shows highest Republican votes (6.0M) despite being traditionally Democratic
 
-v  Texas shows highest Democratic votes (5.3M)
+*  Texas shows highest Democratic votes (5.3M)
 
-v  Significant third-party/other votes in California (380K)
+*  Significant third-party/other votes in California (380K)
 
  
 
 4.       State-wise Education
 
-v  Texas leads in high school graduates (30.06%)
+*  Texas leads in high school graduates (30.06%)
 
-v  Strong educational metrics across southern states
+*  Strong educational metrics across southern states
 
  
 
@@ -50,40 +50,40 @@ Recommendations
  
 
 Electoral Strategy
-v  Focus on high-population states with close margins
+*  Focus on high-population states with close margins
 
-v  Consider targeted campaigns in states with high educational attainment
+*  Consider targeted campaigns in states with high educational attainment
 
-v  Pay attention to states with significant "other votes" as they could swing elections
+*  Pay attention to states with significant "other votes" as they could swing elections
 
  
 
 2.       Education Policy
 
-v  Study Texas's educational model given its high performance across all education metrics
+*  Study Texas's educational model given its high performance across all education metrics
 
-v  Consider implementing successful educational programs from leading states in others
+*  Consider implementing successful educational programs from leading states in others
 
  
 
 3.       Voter Engagement
 
-v  Develop strategies to engage the significant third-party voters
+*  Develop strategies to engage the significant third-party voters
 
-v  Focus on states with high educational attainment as they likely have more informed voters
+*  Focus on states with high educational attainment as they likely have more informed voters
 
  
 
 4.       Resource Allocation
 
-v  Prioritize campaign resources based on population size and historical voting patterns
+*  Prioritize campaign resources based on population size and historical voting patterns
 
-v  Consider demographic shifts in growing states like Texas and Florida
+*  Consider demographic shifts in growing states like Texas and Florida
 
  
 
 5.       Future Planning
 
-v  Monitor population trends in top 5 states for future electoral strategy
+*  Monitor population trends in top 5 states for future electoral strategy
 
-v  Consider the correlation between education levels and voting patterns for targeted messaging
+*  Consider the correlation between education levels and voting patterns for targeted messaging
